@@ -12,7 +12,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Penetration Testing                           | <a href="https://github.com/collinsbigomba/metasploitable2/blob/main/README.md">Metasploitable2 Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/collinsbigomba/Networksecurity/edit/main/README.md">Detection Lab</a> |
 | Linux                                          | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -52,6 +52,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - <a href="https://github.com/collinsbigomba/metasploitable2/blob/main/README.md">Metasploitble2 Lab</a>
+-  <a href="https://github.com/collinsbigomba/Networksecurity/edit/main/README.md">Detection Lab</a>
 - Malware analysis using Remnux
 - Detection Lab
 - SOC Automation Project
