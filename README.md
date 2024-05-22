@@ -13,7 +13,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | Penetration Testing                           | <a href="https://github.com/collinsbigomba/metasploitable2/blob/main/README.md">Metasploitable2 Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/collinsbigomba/Networksecurity/edit/main/README.md">Detection Lab</a> |
-| Linux                                          | Automation Lab|
+| Linux                                          | ssh Lab|
 | Incident Response Planning and Execution      | Automation Lab|
 | Case Management with TheHive                  | Automation Lab|
 | Scripting and Automation for Threat Mitigation | Automation Lab|
