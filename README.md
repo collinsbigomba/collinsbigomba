@@ -14,6 +14,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Penetration Testing                           | <a href="https://github.com/collinsbigomba/metasploitable2/blob/main/README.md">Metasploitable2 Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/collinsbigomba/Networksecurity/edit/main/README.md">Detection Lab</a> |
 | Linux                                          | <a href="https://github.com/collinsbigomba/linux/blob/main/README.md">Linux Lab</a>|
+| SIEM TOOLS                                    | <a href="">SIEM TOOLS Lab</a> |
 | Incident Response Planning and Execution      | Automation Lab|
 | Case Management with TheHive                  | Automation Lab|
 | Scripting and Automation for Threat Mitigation | Automation Lab|
@@ -24,6 +25,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-008080?&style=for-the-badge&logo=Snort&logoColor=white" alt="Snort" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
@@ -37,6 +39,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-5C2D91?&style=for-the-badge&logo=Wazuh&logoColor=white" alt="Wazuh" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
@@ -52,8 +55,9 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - <a href="https://github.com/collinsbigomba/metasploitable2/blob/main/README.md">Metasploitble2 Lab</a>
--  <a href="https://github.com/collinsbigomba/Networksecurity/edit/main/README.md">Detection Lab</a>
--  <a href="https://github.com/collinsbigomba/linux/blob/main/README.md">Linux Lab</a>
+- <a href="https://github.com/collinsbigomba/Networksecurity/edit/main/README.md">Detection Lab</a>
+- <a href="https://github.com/collinsbigomba/linux/blob/main/README.md">Linux Lab</a>
+- <a href="">SIEM TOOLS Lab</a>
 - Malware analysis using Remnux
 - Detection Lab
 - SOC Automation Project
