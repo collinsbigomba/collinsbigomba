@@ -59,5 +59,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/collinsbigomba/linux">Linux Lab</a>
 - <a href="https://github.com/collinsbigomba/SIEMS">SIEM TOOLS Lab</a>
 - Malware analysis using Remnux
-- Detection Lab
+- Honeypot Lab
 - SOC Automation Project
