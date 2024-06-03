@@ -15,8 +15,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/collinsbigomba/Networksecurity">Detection Lab</a> |
 | Linux                                          | <a href="https://github.com/collinsbigomba/linux">Linux Lab</a>|
 | SIEM TOOLS                                    | <a href="https://github.com/collinsbigomba/SIEMS">SIEM TOOLS Lab</a> |
-| Incident Response Planning and Execution      | Automation Lab|
-| Case Management with TheHive                  | Automation Lab|
+| Wifi Pentest                                  | <a href= ""> WIFI PENTESTING Lab</a>  |
+| Cron                                          | <a href="">CRON Lab</a> |
 | Scripting and Automation for Threat Mitigation | Automation Lab|
 
 ## Tools Used
@@ -58,6 +58,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/collinsbigomba/Networksecurity">Detection Lab</a>
 - <a href="https://github.com/collinsbigomba/linux">Linux Lab</a>
 - <a href="https://github.com/collinsbigomba/SIEMS">SIEM TOOLS Lab</a>
+- <a href="">WIFI PENTESTING Lab</a>
+- <a href=""> AUTOMATING TASKS Lab</a>
 - Malware analysis using Remnux
 - Honeypot Lab
 - SOC Automation Project
