@@ -15,7 +15,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/collinsbigomba/Networksecurity">Detection Lab</a> |
 | Linux                                          | <a href="https://github.com/collinsbigomba/linux">Linux Lab</a>|
 | SIEM TOOLS                                    | <a href="https://github.com/collinsbigomba/SIEMS">SIEM TOOLS Lab</a> |
-| Wifi Pentest                                  | <a href= ""> WIFI PENTESTING Lab</a>  |
+| Wifi Pentest                                  | <a href= "https://github.com/collinsbigomba/Wifi"> WIFI PENTESTING Lab</a>  |
 | Cron                                          | <a href="https://github.com/collinsbigomba/Cron">CRON Lab</a> |
 | Scripting and Automation for Threat Mitigation | Automation Lab|
 
@@ -58,7 +58,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/collinsbigomba/Networksecurity">Detection Lab</a>
 - <a href="https://github.com/collinsbigomba/linux">Linux Lab</a>
 - <a href="https://github.com/collinsbigomba/SIEMS">SIEM TOOLS Lab</a>
-- <a href="">WIFI PENTESTING Lab</a>
+- <a href="https://github.com/collinsbigomba/Wifi">WIFI PENTESTING Lab</a>
 - <a href="https://github.com/collinsbigomba/Cron"> AUTOMATING TASKS Lab</a>
 - Malware analysis using Remnux
 - Honeypot Lab
