@@ -45,7 +45,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Certifications
 - Linux Essentials
-- LPIC-1 
+- LPIC-1
+- isc2 cc
   
 <div>
 <img src="https://img.shields.io/badge/-Linux%20Essentials-333333?&style=for-the-badge&logo=Linux&logoColor=white" />
